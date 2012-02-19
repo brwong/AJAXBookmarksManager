@@ -1,0 +1,11 @@
+March 2008
+Bookmarks Manager
+
+HTML/AJAX interface, PHP backend, xml storage file
+
+This was a bookmark manager I wrote within a few days.
+It stored all my bookmarks in an xml file in a webserver folder.
+Each bookmark had one or more user-defined tags, identifying category, type, etc.
+The user would open the manager page, filter through all the bookmarks by checking off the related tags, then click the desired link.
+I also wrote a python script to parse through an exported HTML file (from Firefox) of my existing bookmarks, and convert it to my xml version.
+
