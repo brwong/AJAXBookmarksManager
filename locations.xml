@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <marks>
 	<tags>
 		<tag id="0">programming</tag>
@@ -94,72 +95,87 @@
 		<loc id="#$S+c6I">
 			<name>iGoogle</name>
 			<ref>http://www.google.ca/ig</ref>
-			<t>0;2</t>
+			<t>3;4;25</t>
 		</loc>
 		<loc id="#$spYUA1">
 			<name>Router</name>
 			<ref>http://192.168.2.1</ref>
+			<t>6;7;52</t>
 		</loc>
 		<loc id="#$+6sk93">
 			<name>Google</name>
 			<ref>http://www.google.com/webhp?complete=1&amp;hl=en</ref>
+			<t>4;25</t>
 		</loc>
 		<loc id="#$Y09x.">
 			<name>Facebook</name>
 			<ref>http://www.facebook.com/</ref>
+			<t>49;50</t>
+
 		</loc>
 		<loc id="#$CBdex">
 			<name>Server</name>
 			<ref>http://127.0.0.1</ref>
+			<t>6;7;52</t>
 		</loc>
 		<loc id="#$dlg2k">
 			<name>PHP Manual</name>
 			<ref>http://www.php.net/manual/en/</ref>
+			<t>0;2;9</t>
 		</loc>
 		<loc id="#$w9elR1">
 			<name>PyQR</name>
 			<ref>http://rgruet.free.fr/PQR25/PQR2.5.html</ref>
+			<t>0;1;9</t>
 		</loc>
 		<loc id="#$6GWJF2">
 			<name>W3S</name>
 			<ref>http://www.w3schools.com/</ref>
+			<t>0;2;10;11;12;13;27;30;52</t>
 		</loc>
 		<loc id="#$GSSsv1">
 			<name>PHP Tutorial</name>
 			<ref>http://www.w3schools.com/php/default.asp</ref>
-			<descr>Free HTML XHTML CSS JavaScript DHTML XML DOM XSL XSLT RSS AJAX ASP ADO PHP SQL tutorials, references, examples for web building.</descr>
+			<descr>Free PHP tutorials, references, examples for web building.</descr>
+			<t>0;2;10;11;13;27;52</t>
 		</loc>
 		<loc id="#$hr3EY">
 			<name>PHP MySQL Introduction</name>
 			<ref>http://www.w3schools.com/php/php_mysql_intro.asp</ref>
+			<t>0;2;10;11</t>
 		</loc>
 		<loc id="#$ir3EY">
 			<name>PHP SimpleXML</name>
 			<ref>http://www.w3schools.com/php/php_ref_simplexml.asp</ref>
+			<t>0;2;27;52</t>
 		</loc>
 		<loc id="#$kr3EY">
 			<name>PHP String Functions</name>
 			<ref>http://www.w3schools.com/php/php_ref_string.asp</ref>
+			<t>0;2;52</t>
 		</loc>
 		<loc id="#$FSSsv1">
 			<name>JavaScript Tutorial</name>
 			<ref>http://www.w3schools.com/js/default.asp</ref>
-			<descr>Free HTML XHTML CSS JavaScript DHTML XML DOM XSL XSLT RSS AJAX ASP ADO PHP SQL tutorials, references, examples for web building.</descr>
+			<descr>Free JavaScript tutorials, references, examples for web building.</descr>
+			<t>0;30;52</t>
 		</loc>
 		<loc id="#$SgPXf3">
 			<name>HTML Tutorial</name>
 			<ref>http://www.w3schools.com/html/default.asp</ref>
-			<descr>Free HTML XHTML CSS JavaScript DHTML XML DOM XSL XSLT RSS AJAX ASP ADO PHP SQL tutorials, references, examples for web building.</descr>
+			<descr>Free HTML tutorials, references, examples for web building.</descr>
+			<t>11;52</t>
 		</loc>
 		<loc id="#$ESSsv1">
 			<name>HTML Forms and Input</name>
 			<ref>http://www.w3schools.com/html/html_forms.asp</ref>
-			<descr>Free HTML XHTML CSS JavaScript DHTML XML DOM XSL XSLT RSS AJAX ASP ADO PHP SQL tutorials, references, examples for web building.</descr>
+			<descr>Free HTML/forms/input tutorials, references, examples for web building.</descr>
+			<t>11;52</t>
 		</loc>
 		<loc id="#$8Xmj41">
 			<name>CSS Tutorial</name>
 			<ref>http://www.w3schools.com/css/default.asp</ref>
-			<descr>Free HTML XHTML CSS JavaScript DHTML XML DOM XSL XSLT RSS AJAX ASP ADO PHP SQL tutorials, references, examples for web building.</descr>
+			<descr>Free CSS tutorials, references, examples for web building.</descr>
 		</loc>
 		<loc id="#$MX0Ap1">
 			<name>AJAX Tutorial</name>
@@ -174,23 +190,23 @@
 			<ref>http://www.facebook.com/poke.php?id=509901485&amp;pokeback=1</ref>
 		</loc>
 		<loc id="#$kBNvr3">
-			<name>Howstuffworks &quot;How Cable Modems Work&quot;</name>
+			<name>Howstuffworks "How Cable Modems Work"</name>
 			<ref>http://computer.howstuffworks.com/cable-modem.htm</ref>
 			<descr>Learn about cable modem technology, read cable modem reviews and compare prices and features on popular modem models.</descr>
 		</loc>
 		<loc id="#$lBNvr3">
-			<name>Howstuffworks &quot;The SMTP Server&quot;</name>
+			<name>Howstuffworks "The SMTP Server"</name>
 			<ref>http://communication.howstuffworks.com/email3.htm</ref>
 			<descr>The SMTP server handles all outgoing e-mail messages. Find out how the SMTP server works and see a diagram of a simple e-mail server system.</descr>
 		</loc>
 		<loc id="#$YAnbN2">
 			<name>Classes</name>
 			<ref>http://www.lds.org/pa/display/0,17884,4811-1,00.html</ref>
-		</loc>
+		<t>19;20</t></loc>
 		<loc id="#$WEeGs1">
 			<name>AutoPy</name>
 			<ref>http://www.autoitscript.com/forum/index.php?showtopic=16540</ref>
-		</loc>
+		<t>1;21</t></loc>
 		<loc id="#$jZRq52">
 			<name>Home server</name>
 			<ref>http://en.wikipedia.org/wiki/Home_server</ref>
@@ -198,7 +214,7 @@
 		<loc id="#$CQVHA3">
 			<name>PyMedia</name>
 			<ref>http://pymedia.org/</ref>
-		</loc>
+		<t>1</t></loc>
 		<loc id="#$yKz.L2">
 			<name>crunchy</name>
 			<ref>http://crunchy.sourceforge.net/</ref>
@@ -206,43 +222,43 @@
 		<loc id="#$e6xPX3">
 			<name>Basic Threading</name>
 			<ref>http://www.devshed.com/c/a/Python/Basic-Threading-in-Python/</ref>
-		</loc>
+		<t>1;22</t></loc>
 		<loc id="#$f6xPX3">
 			<name>Py threads</name>
 			<ref>http://www.wellho.net/solutions/python-python-threads-a-first-example.html</ref>
-		</loc>
+		<t>1;22</t></loc>
 		<loc id="#$pzxf63">
 			<name>wxPyWiki</name>
 			<ref>http://wiki.wxpython.org/</ref>
-		</loc>
+		<t>1</t></loc>
 		<loc id="#$MQDi23">
 			<name>TED | Talks | List</name>
 			<ref>http://www.ted.com/index.php/talks/list/page/16</ref>
-		</loc>
+		<t>24</t></loc>
 		<loc id="#$7wPhC3">
 			<name>Google Quicksearch</name>
 			<ref>http://www.google.com/search?q=%s</ref>
-			<descr>Type &quot;google &lt;search terms&gt;&quot; in the location bar to perform a Google search</descr>
+			<descr>Type "google &lt;search terms&gt;" in the location bar to perform a Google search</descr>
 		</loc>
 		<loc id="#$8wPhC3">
 			<name>Dictionary.com Quicksearch</name>
 			<ref>http://dictionary.reference.com/search?q=%s</ref>
-			<descr>Type &quot;dict &lt;word&gt;&quot; in the location bar to perform a dictionary look-up</descr>
+			<descr>Type "dict &lt;word&gt;" in the location bar to perform a dictionary look-up</descr>
 		</loc>
 		<loc id="#$9wPhC3">
 			<name>Stock Symbol Quicksearch</name>
 			<ref>http://www.google.com/search?q=stocks:%s</ref>
-			<descr>Type &quot;quote &lt;symbol&gt;&quot; in the location bar to perform a stock symbol look-up</descr>
+			<descr>Type "quote &lt;symbol&gt;" in the location bar to perform a stock symbol look-up</descr>
 		</loc>
 		<loc id="#$awPhC3">
 			<name>Wikipedia Quicksearch</name>
 			<ref>http://en.wikipedia.org/wiki/Special:Search?search=%s</ref>
-			<descr>Type &quot;wp &lt;something&gt;&quot; in the location bar to look up something in Wikipedia, a free online encyclopedia.</descr>
+			<descr>Type "wp &lt;something&gt;" in the location bar to look up something in Wikipedia, a free online encyclopedia.</descr>
 		</loc>
 		<loc id="#$bwPhC3">
 			<name>Urban Dictionary</name>
 			<ref>http://www.urbandictionary.com/define.php?term=%s</ref>
-			<descr>Type &quot;slang &lt;word&gt;&quot; in the location bar to look up something in the people&#39;s slang dictionary</descr>
+			<descr>Type "slang &lt;word&gt;" in the location bar to look up something in the people's slang dictionary</descr>
 		</loc>
 		<loc id="#$GvPhC3">
 			<name>Getting Started</name>
@@ -544,7 +560,7 @@
 		<loc id="#$ED..N2">
 			<name>Kidz Online - flash</name>
 			<ref>http://www.kidzonline.org/TechTraining/video.asp?UnitQry=2D%20Animation</ref>
-			<descr>Kidz Online(KOL), a federally-funded, nonprofit organization, combines the concept of peer-to-peer training with a web-based content delivery system, providing a fascinating and innovative new way to integrate technology into the classroom. Throughout this site, you&#39;ll find free videos and free lesson plans that will give you a new insight into using technology.</descr>
+			<descr>Kidz Online(KOL), a federally-funded, nonprofit organization, combines the concept of peer-to-peer training with a web-based content delivery system, providing a fascinating and innovative new way to integrate technology into the classroom. Throughout this site, you'll find free videos and free lesson plans that will give you a new insight into using technology.</descr>
 		</loc>
 		<loc id="#$tfjsB2">
 			<name>Flash Kit, A Flash Developer Resource for Macromedia Flash 8 and MX Tutorials SWF FLA images clipart Sounds WAVS Animations Help and Support</name>
@@ -734,7 +750,7 @@ providing top quality 3D visual effects, animation &amp; compositing to the film
 			<descr>Beginners PHP tutorial for web designers.</descr>
 		</loc>
 		<loc id="#$zNQVT1">
-			<name>PHP Tutorials - Herong&#39;s Tutorial Notes - A Free Tutorial Book</name>
+			<name>PHP Tutorials - Herong's Tutorial Notes - A Free Tutorial Book</name>
 			<ref>http://www.herongyang.com/php/</ref>
 			<descr>This free PHP tutorial book is a collection of notes and sample codes written by the author while he was learning PHP himself.</descr>
 		</loc>
@@ -745,7 +761,7 @@ providing top quality 3D visual effects, animation &amp; compositing to the film
 		<loc id="#$1zBzo3">
 			<name>SourceForge.net: Snoopy</name>
 			<ref>http://sourceforge.net/projects/snoopy/</ref>
-			<descr>The world&#39;s largest development and download repository of Open Source code and applications</descr>
+			<descr>The world's largest development and download repository of Open Source code and applications</descr>
 		</loc>
 		<loc id="#$Yjbgn3">
 			<name>AJAX:Getting Started - MDC</name>
@@ -854,7 +870,7 @@ sciences, behavioral science, molecular biology and zoology.</descr>
 		<loc id="#$mjD032">
 			<name>:: Koding ::</name>
 			<ref>http://www.koding.co.uk/index.php?page=monoff</ref>
-			<descr>My name is Kieran D&#39;Archambaud. I&#39;m a software developer and I have 
+			<descr>My name is Kieran D'Archambaud. I'm a software developer and I have 
   built this site to show some of the projects I have done and the ones I am currently working on. My main interest 
   is in computer game development.</descr>
 		</loc>
@@ -931,7 +947,7 @@ sciences, behavioral science, molecular biology and zoology.</descr>
 		<loc id="#$EcLfk3">
 			<name>Linux Knowledge Base and Tutorial</name>
 			<ref>http://www.linux-tutorial.info/</ref>
-			<descr>The place where you learn Linux. Hundreds of articles, &quot;Test Your Knowledge&quot; quizzes, popup glossary, and much, much more help you learn Linux the easy way.</descr>
+			<descr>The place where you learn Linux. Hundreds of articles, "Test Your Knowledge" quizzes, popup glossary, and much, much more help you learn Linux the easy way.</descr>
 		</loc>
 		<loc id="#$Ofh4a3">
 			<name>GateWorld</name>
@@ -1102,7 +1118,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$MXADj2">
 			<name>OBLECTAMENTI PER ORBEM - </name>
 			<ref>http://spaces.msn.com/members/bw1/PersonalSpace.aspx?_c01_blogpart=myspace&amp;_c02_owner=1&amp;_c=blogpart</ref>
-			<descr>It&#39;s always changing!</descr>
+			<descr>It's always changing!</descr>
 		</loc>
 		<loc id="#$ALEw01">
 			<name>Intergalactic Space  @ </name>
@@ -1113,17 +1129,17 @@ understanding their origins and interconnections.</descr>
 			<ref>http://spaces.msn.com/members/selectiveamnesia/PersonalSpace.aspx?owner=1</ref>
 		</loc>
 		<loc id="#$gqlMW1">
-			<name>Winnie the Pooh&#39;s Space of interest</name>
+			<name>Winnie the Pooh's Space of interest</name>
 			<ref>http://spaces.msn.com/members/girlinpuddle3biteme/</ref>
 		</loc>
 		<loc id="#$hqlMW1">
-			<name>Jared&#39;s area</name>
+			<name>Jared's area</name>
 			<ref>http://spaces.msn.com/members/Jareds-area/</ref>
 		</loc>
 		<loc id="#$iqlMW1">
 			<name>x cheZ Maria x</name>
 			<ref>http://spaces.msn.com/members/crazyxmer/</ref>
-			<descr>x These words are all I have so I&#39;ll write them x</descr>
+			<descr>x These words are all I have so I'll write them x</descr>
 		</loc>
 		<loc id="#$MoW6D1">
 			<name>www.myspace.com/crazyxmer</name>
@@ -1162,7 +1178,7 @@ understanding their origins and interconnections.</descr>
 			<descr>MySpace Profile - x Tizz x, 18 years old, Female, , , Canada</descr>
 		</loc>
 		<loc id="#$lqlMW1">
-			<name>Kregon&#39;s Domain</name>
+			<name>Kregon's Domain</name>
 			<ref>http://spaces.msn.com/members/kregon/</ref>
 		</loc>
 		<loc id="#$mqlMW1">
@@ -1183,9 +1199,9 @@ understanding their origins and interconnections.</descr>
 			<descr>Welcome to my site =) ..</descr>
 		</loc>
 		<loc id="#$pqlMW1">
-			<name>joe&#39;s</name>
+			<name>joe's</name>
 			<ref>http://spaces.msn.com/members/jolopoloza/</ref>
-			<descr>MSN Spaces - Spaces joe&#39;s</descr>
+			<descr>MSN Spaces - Spaces joe's</descr>
 		</loc>
 		<loc id="#$qqlMW1">
 			<name>Josh G</name>
@@ -1239,9 +1255,9 @@ understanding their origins and interconnections.</descr>
 			<ref>http://spaces.msn.com/members/mattlemieux86/</ref>
 		</loc>
 		<loc id="#$0rlMW1">
-			<name>Moi et les Gens que J&#39;Aime / Me And the People I Love</name>
+			<name>Moi et les Gens que J'Aime / Me And the People I Love</name>
 			<ref>http://spaces.msn.com/members/photosjoel/</ref>
-			<descr>MSN Spaces - Spaces Moi et les Gens que J&#39;Aime / Me And the People I Love</descr>
+			<descr>MSN Spaces - Spaces Moi et les Gens que J'Aime / Me And the People I Love</descr>
 		</loc>
 		<loc id="#$1rlMW1">
 			<name>pix of 2005</name>
@@ -1258,7 +1274,7 @@ understanding their origins and interconnections.</descr>
 			<descr>Art - community of artists and those devoted to art. Digital art, skin art, themes, wallpaper art, traditional art, photography, poetry / prose. Art prints.</descr>
 		</loc>
 		<loc id="#$+kxtr3">
-			<name>Marissa&#39;s Space</name>
+			<name>Marissa's Space</name>
 			<ref>http://spaces.msn.com/members/MarissaDenis/</ref>
 		</loc>
 		<loc id="#$zTOLU1">
@@ -1271,9 +1287,9 @@ understanding their origins and interconnections.</descr>
 			<ref>http://spaces.msn.com/members/neshycorp/</ref>
 		</loc>
 		<loc id="#$ct0Uw3">
-			<name>Eric&#39;s World of Wonders</name>
+			<name>Eric's World of Wonders</name>
 			<ref>http://spaces.msn.com/members/darkslide281/</ref>
-			<descr>MSN Spaces - Spaces Eric&#39;s World of Wonders</descr>
+			<descr>MSN Spaces - Spaces Eric's World of Wonders</descr>
 		</loc>
 		<loc id="#$SFewn3">
 			<name>Stallions Only</name>
@@ -1333,7 +1349,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$DqBPD3">
 			<name>www.myspace.com/bhumika_p</name>
 			<ref>http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=25957144</ref>
-			<descr>MySpace Profile - Bhumika, 17 years old, Female, , , CA, Welcome to Bhu&#39;s little corner!</descr>
+			<descr>MySpace Profile - Bhumika, 17 years old, Female, , , CA, Welcome to Bhu's little corner!</descr>
 		</loc>
 		<loc id="#$FqBPD3">
 			<name>www.myspace.com/misscbatfer</name>
@@ -1343,12 +1359,12 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$GqBPD3">
 			<name>www.myspace.com/Heidi</name>
 			<ref>http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=14771224</ref>
-			<descr>MySpace Profile - Heidi, 16 years old, Female, Saint Laurent, , CA, Here&#39;s Heidi!! :D</descr>
+			<descr>MySpace Profile - Heidi, 16 years old, Female, Saint Laurent, , CA, Here's Heidi!! :D</descr>
 		</loc>
 		<loc id="#$8rBPD3">
 			<name>www.myspace.com/allison</name>
 			<ref>http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=8350842</ref>
-			<descr>MySpace Profile - Al Charged, 17 years old, Female, montreal, quebec, CA, ya&#39;ll gonna see. im gonna be the best cowboy ever</descr>
+			<descr>MySpace Profile - Al Charged, 17 years old, Female, montreal, quebec, CA, ya'll gonna see. im gonna be the best cowboy ever</descr>
 		</loc>
 		<loc id="#$DQaKt2">
 			<name>www.myspace.com/kimberly</name>
@@ -1383,7 +1399,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$utsQR">
 			<name>www.myspace.com/naomi_ava</name>
 			<ref>http://www.myspace.com/naomi_ava</ref>
-			<descr>MySpace Profile - Naomi, 18 years old, Female, , , CA, &quot; Fif!&quot;</descr>
+			<descr>MySpace Profile - Naomi, 18 years old, Female, , , CA, " Fif!"</descr>
 		</loc>
 		<loc id="#$COuAM">
 			<name>Androboy Inc. - Homepage</name>
@@ -1530,9 +1546,9 @@ understanding their origins and interconnections.</descr>
 			<ref>http://www.dopefly.com/techblog/entry.cfm?entry=158</ref>
 		</loc>
 		<loc id="#$oIZKL">
-			<name>Webmonkey: The Web Developer&#39;s Resource</name>
+			<name>Webmonkey: The Web Developer's Resource</name>
 			<ref>http://www.webmonkey.com/</ref>
-			<descr>The Web Developer&#39;s Resource</descr>
+			<descr>The Web Developer's Resource</descr>
 		</loc>
 		<loc id="#$aLj9v3">
 			<name>Popular Web Development Sites</name>
@@ -1587,14 +1603,14 @@ understanding their origins and interconnections.</descr>
 			<ref>http://www.stevenhargrove.com/</ref>
 		</loc>
 		<loc id="#$maD+G2">
-			<name>FLV Converter - A Layman&#39;s Guide to Flash Video Conversion</name>
+			<name>FLV Converter - A Layman's Guide to Flash Video Conversion</name>
 			<ref>http://worldtv.com/blog/guides_tutorials/flv_converter.php</ref>
 			<descr>A subjective guide to Internet TV and broadband video.</descr>
 		</loc>
 		<loc id="#$YTLu12">
-			<name>Howstuffworks &quot;How OLEDs Work&quot;</name>
+			<name>Howstuffworks "How OLEDs Work"</name>
 			<ref>http://electronics.howstuffworks.com/oled.htm</ref>
-			<descr>Imagine a TV that is 80 inches wide and less than a quarter-inch thick, consumes less power than most TVs you can buy today and can be rolled up when you&#39;re not using it. OLEDs can make it happen. Find out how.</descr>
+			<descr>Imagine a TV that is 80 inches wide and less than a quarter-inch thick, consumes less power than most TVs you can buy today and can be rolled up when you're not using it. OLEDs can make it happen. Find out how.</descr>
 		</loc>
 		<loc id="#$XTLu12">
 			<name>Organic light-emitting diode - Wikipedia, the free encyclopedia</name>
@@ -1638,7 +1654,7 @@ understanding their origins and interconnections.</descr>
 			<ref>http://crave.cnet.com/8301-1_105-9662551-1.html</ref>
 		</loc>
 		<loc id="#$Th0wv2">
-			<name>Touch screens you don&#39;t need to touch | Crave : The gadget blog</name>
+			<name>Touch screens you don't need to touch | Crave : The gadget blog</name>
 			<ref>http://crave.cnet.com/8301-1_105-9701567-1.html?part=rss&amp;tag=feed&amp;subj=Crave</ref>
 		</loc>
 		<loc id="#$UjNFh2">
@@ -1653,12 +1669,12 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$LFP4b2">
 			<name>A perfect doorknob for loners | Crave : The gadget blog</name>
 			<ref>http://crave.cnet.com/8301-1_105-9762552-1.html?part=rss&amp;tag=feed&amp;subj=Crave</ref>
-			<descr>Amsterdam-based designer Naomi Thellier de Poncheville&#39;s Hand-le lets you shake your door&#39;s hand to open it.</descr>
+			<descr>Amsterdam-based designer Naomi Thellier de Poncheville's Hand-le lets you shake your door's hand to open it.</descr>
 		</loc>
 		<loc id="#$6vq48">
 			<name>CNET Show Us Yours: Submit your home theater! | Crave : The gadget blog</name>
 			<ref>http://crave.cnet.com/8301-1_105-9774736-1.html?part=rss&amp;tag=feed&amp;subj=Crave</ref>
-			<descr>CNET&#39;s Show Us Yours: Living room feature is asking for more submissions, so get your digital camera ready and submit your home theater.</descr>
+			<descr>CNET's Show Us Yours: Living room feature is asking for more submissions, so get your digital camera ready and submit your home theater.</descr>
 		</loc>
 		<loc id="#$Btsi51">
 			<name>Flexible, colorful solar cells coming next year | Crave : The gadget blog</name>
@@ -1666,12 +1682,12 @@ understanding their origins and interconnections.</descr>
 			<descr>Konarka Technologies, an organic-photovoltaic cell maker, is partnering to deliver its flexible solar films for buildings, consumer products next year.</descr>
 		</loc>
 		<loc id="#$X7drM">
-			<name>Wizz away with plasma &quot;enhancement&quot; | Crave : The gadget blog</name>
+			<name>Wizz away with plasma "enhancement" | Crave : The gadget blog</name>
 			<ref>http://crave.cnet.com/8301-1_105-9838467-1.html?part=rss&amp;tag=feed&amp;subj=Crave</ref>
 			<descr>British Ministry of Defence spin off may revolutionize waterproofing.</descr>
 		</loc>
 		<loc id="#$DOPiz2">
-			<name>Paper and carbon nanotube battery developed, and it&#39;s flexible | Crave : The gadget blog</name>
+			<name>Paper and carbon nanotube battery developed, and it's flexible | Crave : The gadget blog</name>
 			<ref>http://crave.cnet.com/8301-1_105-9759782-1.html</ref>
 			<descr>Another flexible battery, but this one is really made of paper.</descr>
 		</loc>
@@ -1723,7 +1739,7 @@ understanding their origins and interconnections.</descr>
 			<ref>http://community.livejournal.com/optimus_project/</ref>
 		</loc>
 		<loc id="#$AvgeK1">
-			<name>Macworld&#39;s Gadgetbox: Finally, Print-to-Toast functionality</name>
+			<name>Macworld's Gadgetbox: Finally, Print-to-Toast functionality</name>
 			<ref>http://gadgets.macworld.com/home_household/finally_print_to_toast_funcito.php</ref>
 		</loc>
 		<loc id="#$jRa.+">
@@ -1738,7 +1754,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$iJRid3">
 			<name>ThinkGeek :: I Never Finish Anyth</name>
 			<ref>http://www.thinkgeek.com/tshirts/generic/8bad/</ref>
-			<descr>I Never Finish Anyth - We all have tons of projects, that for whatever reason we&#39;ve just never finished. Like that compu</descr>
+			<descr>I Never Finish Anyth - We all have tons of projects, that for whatever reason we've just never finished. Like that compu</descr>
 		</loc>
 		<loc id="#$NJRid3">
 			<name>ThinkGeek :: Pilot Watch with Slide Rule</name>
@@ -1756,19 +1772,19 @@ understanding their origins and interconnections.</descr>
 			<descr>T-Qualizer Shirt - Cool Glowing T-Shirt Features an Animated Graphic Equalizer</descr>
 		</loc>
 		<loc id="#$QJRid3">
-			<name>ThinkGeek :: Schrdinger&#39;s Cat</name>
+			<name>ThinkGeek :: Schrdinger's Cat</name>
 			<ref>http://www.thinkgeek.com/tshirts/science/6dff/</ref>
-			<descr>Schrdinger&#39;s Cat - Shrdinger&#39;s Cat is Dead. No, wait. Shrdinger&#39;s Cat is Not Dead. No, wait...</descr>
+			<descr>Schrdinger's Cat - Shrdinger's Cat is Dead. No, wait. Shrdinger's Cat is Not Dead. No, wait...</descr>
 		</loc>
 		<loc id="#$jKRid3">
 			<name>ThinkGeek :: I see dumb people.</name>
 			<ref>http://www.thinkgeek.com/tshirts/frustrations/6b6e/</ref>
-			<descr>I see dumb people. - Some days you&#39;d think you were the only person who could see them all. They&#39;re coming to get you!</descr>
+			<descr>I see dumb people. - Some days you'd think you were the only person who could see them all. They're coming to get you!</descr>
 		</loc>
 		<loc id="#$cF8KB">
 			<name>Eclipse Design Phone: Is Simple Better? - Gizmodo</name>
 			<ref>http://www.gizmodo.com/gadgets/cellphones/eclipse-design-phone-is-simple-better-224645.php</ref>
-			<descr>Gizmodo, the gadget guide. So much in love with shiny new toys, it&#39;s unnatural.</descr>
+			<descr>Gizmodo, the gadget guide. So much in love with shiny new toys, it's unnatural.</descr>
 		</loc>
 		<loc id="#$mCk0V">
 			<name>USB - 2.0, port, Hi-Speed, Wireless, OTG - Everything USB</name>
@@ -1791,7 +1807,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$IM1Fb2">
 			<name>The Ultimate Game Desk - Kotaku</name>
 			<ref>http://www.kotaku.com/gaming/italian-language/the-ultimate-game-desk-206083.php</ref>
-			<descr>As if you don&#39;t waste enough of your time in a gamer&#39;s haze, here&#39;s Kotaku: a gamer&#39;s guide that goes beyond the press release. Gossip, cheats, criticism, design, nostalgia, prediction. Don&#39;t get a life just yet.</descr>
+			<descr>As if you don't waste enough of your time in a gamer's haze, here's Kotaku: a gamer's guide that goes beyond the press release. Gossip, cheats, criticism, design, nostalgia, prediction. Don't get a life just yet.</descr>
 		</loc>
 		<loc id="#$8A2Fb2">
 			<name>Aerons Ultimate Self-Adjusting Office Chair Concept - BornRich</name>
@@ -1819,7 +1835,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$Su7xi1">
 			<name>bit-tech.net | Linux servers go teeny</name>
 			<ref>http://www.bit-tech.net/news/2005/08/11/blackdog_linux_server/1</ref>
-			<descr>Want a Linux server?  Don&#39;t want another box making noise in your room?  How about a biometric USB stick with a PowerPC chip built in?</descr>
+			<descr>Want a Linux server?  Don't want another box making noise in your room?  How about a biometric USB stick with a PowerPC chip built in?</descr>
 		</loc>
 		<loc id="#$vODi23">
 			<name>The Ultimate Linux Laptop</name>
@@ -1828,12 +1844,12 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$DD..N2">
 			<name>Kidz Online - Tech Training</name>
 			<ref>http://www.kidzonline.org/TechTraining/</ref>
-			<descr>Kidz Online(KOL), a federally-funded, nonprofit organization, combines the concept of peer-to-peer training with a web-based content delivery system, providing a fascinating and innovative new way to integrate technology into the classroom. Throughout this site, you&#39;ll find free videos and free lesson plans that will give you a new insight into using technology.</descr>
+			<descr>Kidz Online(KOL), a federally-funded, nonprofit organization, combines the concept of peer-to-peer training with a web-based content delivery system, providing a fascinating and innovative new way to integrate technology into the classroom. Throughout this site, you'll find free videos and free lesson plans that will give you a new insight into using technology.</descr>
 		</loc>
 		<loc id="#$r7uJP2">
 			<name>Windows Vista beta 2 Reviews. Windows Reviews by CNET.</name>
 			<ref>http://reviews.cnet.com/Windows_Vista_beta_2/4505-3672_7-31884416-1.html?tag=txt</ref>
-			<descr>CNET&#39;s comprehensive Windows Vista beta 2 coverage: unbiased reviews, exclusive video footage and buying guides. Compare Windows Vista beta 2 prices, user ratings, specs and more.</descr>
+			<descr>CNET's comprehensive Windows Vista beta 2 coverage: unbiased reviews, exclusive video footage and buying guides. Compare Windows Vista beta 2 prices, user ratings, specs and more.</descr>
 		</loc>
 		<loc id="#$B8uJP2">
 			<name>Learning to Touch-Type -- Techniques &amp; Resources</name>
@@ -1858,7 +1874,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$eof431">
 			<name>Inventgeek.com - Your source for reinventing projects</name>
 			<ref>http://www.inventgeek.com/</ref>
-			<descr>Inventgeek.com - Celebrating Creativity and invention though reinvention. Providing how to&#39;s and projects on semi-practical mod and other creative ideas</descr>
+			<descr>Inventgeek.com - Celebrating Creativity and invention though reinvention. Providing how to's and projects on semi-practical mod and other creative ideas</descr>
 		</loc>
 		<loc id="#$fof431">
 			<name>hack a day - www.hackaday.com _</name>
@@ -1889,7 +1905,7 @@ understanding their origins and interconnections.</descr>
 		<loc id="#$8C7Pu1">
 			<name>Desktop of the Future? - dgrigg.innovasium.com</name>
 			<ref>http://dgrigg.innovasium.com/post/Desktop-of-the-Future</ref>
-			<descr>Derrick Grigg&#39;s blog on flash, flex, coldfusion and internet development in general</descr>
+			<descr>Derrick Grigg's blog on flash, flex, coldfusion and internet development in general</descr>
 		</loc>
 		<loc id="#$iErHq1">
 			<name>The Tech FAQ</name>
@@ -1947,7 +1963,7 @@ unassailable computing enthusiasts.</descr>
 		<loc id="#$k3IQ+">
 			<name>Web 2.0--the folly of amateurs? | Perspectives | CNET News.com</name>
 			<ref>http://news.com.com/2010-1025_3-6173903.html?part=rss&amp;tag=2547-1_3-0-5&amp;subj=news</ref>
-			<descr>Web 2.0--the folly of amateurs? | A provocative new book warns that society stands to lose more than it gains from the democratization of the digital world, says CNET News.com&#39;s Charles Cooper. | April 6, 2007, 4:00 AM PT   | Charles  Cooper</descr>
+			<descr>Web 2.0--the folly of amateurs? | A provocative new book warns that society stands to lose more than it gains from the democratization of the digital world, says CNET News.com's Charles Cooper. | April 6, 2007, 4:00 AM PT   | Charles  Cooper</descr>
 		</loc>
 		<loc id="#$t3k8h3">
 			<name>Microsoft claims software like Linux violates its patents - May 28, 2007</name>
@@ -1978,14 +1994,14 @@ unassailable computing enthusiasts.</descr>
 		<loc id="#$KbphI1">
 			<name>The Great Global Warming Swindle - Google Video</name>
 			<ref>http://video.google.com/videoplay?docid=9005566792811497638&amp;q=the+great+global+warming+swindle</ref>
-			<descr>Are you green? How many flights have you taken in the last year? Feeling guilty about all those unnecessary car journeys? Well, maybe there&#39;.... 1 hr 15 min 56 sec.</descr>
+			<descr>Are you green? How many flights have you taken in the last year? Feeling guilty about all those unnecessary car journeys? Well, maybe there'.... 1 hr 15 min 56 sec.</descr>
 		</loc>
 		<loc id="#$xvpRU3">
 			<name>EarthShips</name>
 			<ref>http://video.google.com/videoplay?docid=-985238716443547063&amp;hl=en-CA</ref>
 		</loc>
 		<loc id="#$b10O.3">
-			<name>Greg Miller&#39;s Guide to Lock Picking for Beginners</name>
+			<name>Greg Miller's Guide to Lock Picking for Beginners</name>
 			<ref>http://www.gregmiller.net/locks/</ref>
 		</loc>
 		<loc id="#$i20O.3">
@@ -2015,9 +2031,9 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 			<ref>http://www.stormwerks.com/linked/</ref>
 		</loc>
 		<loc id="#$fw0Uw3">
-			<name>BBC NEWS | Magazine | 100 things we didn&#39;t know this time last year</name>
+			<name>BBC NEWS | Magazine | 100 things we didn't know this time last year</name>
 			<ref>http://news.bbc.co.uk/1/hi/magazine/4566526.stm</ref>
-			<descr>Each week the Magazine picks out snippets from the news, and compiles them into 10 Things We Didn&#39;t Know This Time Last Week. Here&#39;s an end of year almanac.</descr>
+			<descr>Each week the Magazine picks out snippets from the news, and compiles them into 10 Things We Didn't Know This Time Last Week. Here's an end of year almanac.</descr>
 		</loc>
 		<loc id="#$Qw0Uw3">
 			<name>18 Tricks to Teach Your Body</name>
@@ -2110,7 +2126,7 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 			<descr>Random Technology by Rob Rohan: Crystal Radios</descr>
 		</loc>
 		<loc id="#$aFtsH1">
-			<name>www.BrazilianArtists.net, &quot;Meet the World&quot; Flags</name>
+			<name>www.BrazilianArtists.net, "Meet the World" Flags</name>
 			<ref>http://www.brazilianartists.net/home/flags/</ref>
 			<descr>The A-Z of Brazilian Arts, Entertainment and Cultural Events in the UK. The gateway to Brazil in London. The one stop website where you can find out everything happening in the Brazilian scene in London, from caipirinha to capoeira and, of course, Brazilian Artists based in the UK.</descr>
 		</loc>
@@ -2159,14 +2175,14 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 		<loc id="#$pue3z3">
 			<name>How does Dyson make water go uphill? | BBC NEWS | UK</name>
 			<ref>http://news.bbc.co.uk/2/hi/uk_news/3046791.stm</ref>
-			<descr>James Dyson&#39;s uphill water feature has been the striking image of this year&#39;s Chelsea Flower Show.  But how did he do it?</descr>
+			<descr>James Dyson's uphill water feature has been the striking image of this year's Chelsea Flower Show.  But how did he do it?</descr>
 		</loc>
 		<loc id="#$vObhz1">
 			<name>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</name>
 			<ref>http://xkcd.com/</ref>
 		</loc>
 		<loc id="#$RP+xy1">
-			<name>TreeHugger-Style Roller Coaster in Japan: It&#39;s Pedal Powered (TreeHugger)</name>
+			<name>TreeHugger-Style Roller Coaster in Japan: It's Pedal Powered (TreeHugger)</name>
 			<ref>http://www.treehugger.com/files/2007/03/treehuggerstyle.php</ref>
 		</loc>
 		<loc id="#$5UsVP2">
@@ -2209,7 +2225,7 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 		<loc id="#$N4qIx1">
 			<name>YouTube - 3D Display and Interaction</name>
 			<ref>http://www.youtube.com/watch?v=u7Gm0OeKxwU</ref>
-			<descr>Video presentation from ACM UIST 2004. The first interaction system for &#39;real&#39; 3D displays.</descr>
+			<descr>Video presentation from ACM UIST 2004. The first interaction system for 'real' 3D displays.</descr>
 		</loc>
 		<loc id="#$K5qIx1">
 			<name>Rendering for an Interactive 360 Degree Light Field Display</name>
@@ -2245,7 +2261,7 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 			<descr>Future-forward design for the world you inhabit - your daily source for innovations in sustainable architecture and green design for the home.</descr>
 		</loc>
 		<loc id="#$0s7xi1">
-			<name>Do&#39;s and don&#39;ts with babies :: Hilarious pics</name>
+			<name>Do's and don'ts with babies :: Hilarious pics</name>
 			<ref>http://www.c00lstuff.com/1133/Do_s_and_don_ts_with_babies/</ref>
 			<descr>Click on Full Story for more hilariousness!</descr>
 		</loc>
@@ -2281,7 +2297,7 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 			<descr>Digital cameras were one of the hot gifts these holidays the first one for some people, an upgrade for others. Cell-phone cameras are everywhere too, and sites like Flickr and Buzznet not to mention photoblogs make it easy for anyone to share the...</descr>
 		</loc>
 		<loc id="#$Nw0Uw3">
-			<name>Photographers&#39; Guide to Privacy</name>
+			<name>Photographers' Guide to Privacy</name>
 			<ref>http://www.rcfp.org/photoguide/</ref>
 		</loc>
 		<loc id="#$Ow0Uw3">
@@ -2290,7 +2306,7 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 			<descr>An attorney in Portland, Oregon practicing in the areas of environmental, intellectual property, and education law.</descr>
 		</loc>
 		<loc id="#$Pw0Uw3">
-			<name>Chapter 3 - Journalists&#39; Right of Privacy Primer</name>
+			<name>Chapter 3 - Journalists' Right of Privacy Primer</name>
 			<ref>http://www.mobar.org/press/medhnbk3.htm</ref>
 			<descr>The Missouri Bar is the state bar association for Missouri.</descr>
 		</loc>
@@ -2319,10 +2335,10 @@ deadbolts, masterlocks, locking mechanisms.</descr>
 		<loc id="#$WOE6R2">
 			<name>Montreal Photo - PhotoBlog from Julien Roumagnac : Palais des Congrs de Montral</name>
 			<ref>http://www.j-roumagnac.net/</ref>
-			<descr>Julien Roumagnac - Photo numerique amateur - PhotoBlog: Palais des Congrs de Montral, Je vous remercie infiniment pour vos nombreux avis sur l&#39;image prcdente, c&#39;tait trs interressant de voir les differents points de vue de chacun.
-Il est fort probable que je ne pourrais pas m&#39;occuper de mon photoblog pour une dizaine de jours, je vous souhaites donc un bon weekend et une bonne semaine prochaine.
+			<descr>Julien Roumagnac - Photo numerique amateur - PhotoBlog: Palais des Congrs de Montral, Je vous remercie infiniment pour vos nombreux avis sur l'image prcdente, c'tait trs interressant de voir les differents points de vue de chacun.
+Il est fort probable que je ne pourrais pas m'occuper de mon photoblog pour une dizaine de jours, je vous souhaites donc un bon weekend et une bonne semaine prochaine.
 Thank you infinitely for your many opinions on the previous picture, that was really interesting to see so different points of view.
-I probably won&#39;t be able to update my photoblog for about 10 days, so I wish you a nice weekend and a nice week.</descr>
+I probably won't be able to update my photoblog for about 10 days, so I wish you a nice weekend and a nice week.</descr>
 		</loc>
 		<loc id="#$pUPOr1">
 			<name>Gigapxl Project</name>
@@ -2363,9 +2379,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>TheFreeSite.com offers free software, freeware, free screensavers, freeware chat programs, disk utilities, games, telnet, dialup programs, mp3 software, prank programs, graphics freeware, HTML software, text editors, time utilities, usenet software, vrml</descr>
 		</loc>
 		<loc id="#$02BkT2">
-			<name>OnlyTheBestFreeware.com - Your source for the web&#39;s best freeware</name>
+			<name>OnlyTheBestFreeware.com - Your source for the web's best freeware</name>
 			<ref>http://www.onlythebestfreeware.com/</ref>
-			<descr>Download the best free software for Windows at OnlyTheBestFreeware.com. Are you looking for free software, but you don&#39;t want to try a lot of programs? We present only the best freeware per category!</descr>
+			<descr>Download the best free software for Windows at OnlyTheBestFreeware.com. Are you looking for free software, but you don't want to try a lot of programs? We present only the best freeware per category!</descr>
 		</loc>
 		<loc id="#$CUCa32">
 			<name>freesound :: home page</name>
@@ -2391,7 +2407,7 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 		<loc id="#$xQ19t3">
 			<name>Reviews and free downloads at Download.com</name>
 			<ref>http://www.download.com/</ref>
-			<descr>Find the software you&#39;re looking for at Download.com, the most comprehensive source for free-to-try software downloads on the Web. Includes audio programs, utilities, Internet and desktop software, applications for developers, downloads for small business users, and more.</descr>
+			<descr>Find the software you're looking for at Download.com, the most comprehensive source for free-to-try software downloads on the Web. Includes audio programs, utilities, Internet and desktop software, applications for developers, downloads for small business users, and more.</descr>
 		</loc>
 		<loc id="#$1TUgv3">
 			<name>FREEWARE GUIDE - Your Guide to the Best Free Software and Freeware Sites!</name>
@@ -2604,9 +2620,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>Simulated Annealing Demonstration 1.0 Simulated Annealing Demonstration is a Java application that demonstrates the Simulated Annealing algorithm</descr>
 		</loc>
 		<loc id="#$6ANLQ1">
-			<name>Download Desktop Spy Camera 1.1 - Desktop Spy Camera is a complete tool to monitor target user&#39;s action in the windows desktop - Softpedia</name>
+			<name>Download Desktop Spy Camera 1.1 - Desktop Spy Camera is a complete tool to monitor target user's action in the windows desktop - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Security/Security-Related/Desktop-Spy-Camera.shtml</ref>
-			<descr>Desktop Spy Camera 1.1 Desktop Spy Camera is a complete tool to monitor target user&#39;s action in the windows desktop</descr>
+			<descr>Desktop Spy Camera 1.1 Desktop Spy Camera is a complete tool to monitor target user's action in the windows desktop</descr>
 		</loc>
 		<loc id="#$LQa.+">
 			<name>Download Fireworks Simulator Engine 1.0 - Fireworks Simulator Engine is a 3D simulator of pyrotechnics effects - Softpedia</name>
@@ -2664,14 +2680,14 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>CeWe Photo Book 1.2 CeWe Photo Book helps to create coffee table style photo books with fully editable covers</descr>
 		</loc>
 		<loc id="#$6ZFe33">
-			<name>Download PC Black Box 2.5 - PC Black Box will ensure your computer&#39;s security by monitoring all activity on your computer - Softpedia</name>
+			<name>Download PC Black Box 2.5 - PC Black Box will ensure your computer's security by monitoring all activity on your computer - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Security/Security-Related/PC-Black-Box.shtml</ref>
-			<descr>PC Black Box 2.5 PC Black Box will ensure your computer&#39;s security by monitoring all activity on your computer</descr>
+			<descr>PC Black Box 2.5 PC Black Box will ensure your computer's security by monitoring all activity on your computer</descr>
 		</loc>
 		<loc id="#$58O1u3">
-			<name>Download PrestoNotes 4.7.0 - PrestoNotes allows you to write little memo&#39;s and stick them on your screen - Softpedia</name>
+			<name>Download PrestoNotes 4.7.0 - PrestoNotes allows you to write little memo's and stick them on your screen - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/PrestoNotes.shtml</ref>
-			<descr>PrestoNotes 4.7.0 PrestoNotes allows you to write little memo&#39;s and stick them on your screen</descr>
+			<descr>PrestoNotes 4.7.0 PrestoNotes allows you to write little memo's and stick them on your screen</descr>
 		</loc>
 		<loc id="#$kNDR03">
 			<name>Download WinLock 1.0 - WinLock enables you to lock individual windows with a password - Softpedia</name>
@@ -2734,9 +2750,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>PDF24-creator 1.2.4 PDF24-creator - Program to create pdf-files from almost any application</descr>
 		</loc>
 		<loc id="#$mR5Sv">
-			<name>Download Rubik&#39;s Cube 2.2 - Rubik&#39;s Cube is a classic puzzler come to Widget form - Softpedia</name>
+			<name>Download Rubik's Cube 2.2 - Rubik's Cube is a classic puzzler come to Widget form - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Windows-Widgets/Widget-Games/Rubik-Cube.shtml</ref>
-			<descr>Rubik&#39;s Cube 2.2 Rubik&#39;s Cube is a classic puzzler come to Widget form</descr>
+			<descr>Rubik's Cube 2.2 Rubik's Cube is a classic puzzler come to Widget form</descr>
 		</loc>
 		<loc id="#$XowV21">
 			<name>Download Mp3 Organizer Pro 3.0 - MP3 Organizer PRO is small, free and powerful MP3 organizing tool with over 100 different functions - Softpedia</name>
@@ -2784,9 +2800,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>Matrix Discovery 1.2 Matrix Discovery is a program that provides great, powerful presentations coupled with many additional features.</descr>
 		</loc>
 		<loc id="#$YIpPL2">
-			<name>Download Darth Vader&#39;s Google Search 1.01 - Darth Vader&#39;s Google Search widget allows you to search for specific stuff on Google - Softpedia</name>
+			<name>Download Darth Vader's Google Search 1.01 - Darth Vader's Google Search widget allows you to search for specific stuff on Google - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Windows-Widgets/Widget-Miscellaneous/Darth-Vader-s-Google-Search.shtml</ref>
-			<descr>Darth Vader&#39;s Google Search 1.01 Darth Vader&#39;s Google Search widget allows you to search for specific stuff on Google</descr>
+			<descr>Darth Vader's Google Search 1.01 Darth Vader's Google Search widget allows you to search for specific stuff on Google</descr>
 		</loc>
 		<loc id="#$maV553">
 			<name>Download MorsePlay 1.1 - MorsePlay uses text to play morse code through the speakers - Softpedia</name>
@@ -2829,9 +2845,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>Easy Made Memories 2.0 Easy Made Memories make TV-Ready DVD Scrapbooks with your own Pictures, Videos, and Voice Narration</descr>
 		</loc>
 		<loc id="#$B0XQ93">
-			<name>Download SyncPad 1.0 - SyncPad let&#39;s you have a note pad that&#39;s synchronized across multiple computers - Softpedia</name>
+			<name>Download SyncPad 1.0 - SyncPad let's you have a note pad that's synchronized across multiple computers - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Windows-Widgets/Widget-Miscellaneous/SyncPad.shtml</ref>
-			<descr>SyncPad 1.0 SyncPad let&#39;s you have a note pad that&#39;s synchronized across multiple computers</descr>
+			<descr>SyncPad 1.0 SyncPad let's you have a note pad that's synchronized across multiple computers</descr>
 		</loc>
 		<loc id="#$C0XQ93">
 			<name>Download Vista Start Menu 2.191 SE - Vista Start Menu is an innovative way to organize your shortcuts - Softpedia</name>
@@ -2849,9 +2865,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>Resistor Gadget 1.0 Resistor Gadget is designed to help identify electronic resistor values by the color band codes printed on the resistors</descr>
 		</loc>
 		<loc id="#$IRhKx1">
-			<name>Download FileList 1.0 - FileList creates a list of the files you have on your computer&#39;s HDD - Softpedia</name>
+			<name>Download FileList 1.0 - FileList creates a list of the files you have on your computer's HDD - Softpedia</name>
 			<ref>http://www.softpedia.com/get/System/File-Management/Viches-FileList.shtml</ref>
-			<descr>FileList 1.0 FileList creates a list of the files you have on your computer&#39;s HDD</descr>
+			<descr>FileList 1.0 FileList creates a list of the files you have on your computer's HDD</descr>
 		</loc>
 		<loc id="#$KRhKx1">
 			<name>Download Earth3D 1.0.4 - Earth3D is a program that visualizes the earth in realtime in a 3D view - Softpedia</name>
@@ -2934,9 +2950,9 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>PHP SMTP Server for Windows 1.0 PHP SMTP Server for Windows - The 1st Portable SMTP Server in the world!</descr>
 		</loc>
 		<loc id="#$SJ2kX3">
-			<name>Download Password Killer 1.0 - Password Killer will help you if you ever forget a password by showing you what&#39;s behind those asterixes. - Softpedia</name>
+			<name>Download Password Killer 1.0 - Password Killer will help you if you ever forget a password by showing you what's behind those asterixes. - Softpedia</name>
 			<ref>http://www.softpedia.com/get/Security/Password-Managers-Generators/Password-Killer.shtml</ref>
-			<descr>Password Killer 1.0 Password Killer will help you if you ever forget a password by showing you what&#39;s behind those asterixes.</descr>
+			<descr>Password Killer 1.0 Password Killer will help you if you ever forget a password by showing you what's behind those asterixes.</descr>
 		</loc>
 		<loc id="#$nlYqy1">
 			<name>Download XB Text2Gif 1.0 - Text2Gif application was designed to be a little tool that will helo you turn a single text line into a GIF image - Softpedia</name>
@@ -3032,7 +3048,7 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<ref>https://addons.mozilla.org/en-US/firefox/addon/4287</ref>
 		</loc>
 		<loc id="#$GKaKJ3">
-			<name>Brian&#39;s BitTorrent FAQ and Guide</name>
+			<name>Brian's BitTorrent FAQ and Guide</name>
 			<ref>http://btfaq.com/serve/cache/1.html</ref>
 		</loc>
 		<loc id="#$IKaKJ3">
@@ -3182,7 +3198,7 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 		<loc id="#$a93ZL">
 			<name>Download Accelerator, a faster download manager</name>
 			<ref>http://www.speedbit.com/</ref>
-			<descr>115 million users can&#39;t be wrong - the most popular download manager worldwide!</descr>
+			<descr>115 million users can't be wrong - the most popular download manager worldwide!</descr>
 		</loc>
 		<loc id="#$9unLI2">
 			<name>Advanced WindowsCare Review at Free Downloads Center. Advanced WindowsCare is a powerful system health maintenance utility.</name>
@@ -3236,13 +3252,13 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>1 Hour Software by skrommel</descr>
 		</loc>
 		<loc id="#$lJ.8l">
-			<name>Foto-Mosaik | It&#39;s so easy to create mosaic-pictures.</name>
+			<name>Foto-Mosaik | It's so easy to create mosaic-pictures.</name>
 			<ref>http://www.sixdots.de/mosaik/en/index.php</ref>
 		</loc>
 		<loc id="#$o4xx93">
 			<name>Downloader. Offline Downloader. Website Downloader</name>
 			<ref>http://www.offlinedownloader.com/</ref>
-			<descr>Offline Downloader program is conveniently designed to download Internet websites exactly the way you want them, including or excluding any parts you need or don&#39;t need</descr>
+			<descr>Offline Downloader program is conveniently designed to download Internet websites exactly the way you want them, including or excluding any parts you need or don't need</descr>
 		</loc>
 		<loc id="#$5Xj0V">
 			<name>WikidPad - wiki notebook/outliner for windows</name>
@@ -3313,17 +3329,17 @@ I probably won&#39;t be able to update my photoblog for about 10 days, so I wish
 			<descr>A fast, free Web counter that features custom counters styles. Site Meter creates dynamic 3D charts showing visitors, page views, country maps, visit durations and much more!</descr>
 		</loc>
 		<loc id="#$YVSSm">
-			<name>Brandon&#39;s Journal</name>
+			<name>Brandon's Journal</name>
 			<ref>file:///C:/Documents%20and%20Settings/Wong%20Family/My%20Documents/Brandon/journal/brandonjournal.html</ref>
 			<descr>For when my boring life is not so boring</descr>
 		</loc>
 		<loc id="#$e8B4b3">
-			<name>Brandon&#39;s Pictures</name>
+			<name>Brandon's Pictures</name>
 			<ref>file:///C:/Documents%20and%20Settings/Wong%20Family/My%20Documents/Brandon/photos/1-photo%20index.html</ref>
 			<descr>Pictures I have taken and descriptions</descr>
 		</loc>
 		<loc id="#$d8B4b3">
-			<name>Brandon&#39;s Schedules</name>
+			<name>Brandon's Schedules</name>
 			<ref>file:///C:/Documents%20and%20Settings/Wong%20Family/My%20Documents/Brandon/school/schedules.html</ref>
 			<descr>School schedules of past years</descr>
 		</loc>
@@ -3382,7 +3398,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://www.popsci.com/popsci/</ref>
 		</loc>
 		<loc id="#$S2z8D">
-			<name>In 2021 You&#39;ll Enjoy Total Recall - Popular Science</name>
+			<name>In 2021 You'll Enjoy Total Recall - Popular Science</name>
 			<ref>http://www.popsci.com/popsci/technology/fb2139971b24b010vgnvcm1000004eecbccdrcrd.html</ref>
 		</loc>
 		<loc id="#$T2z8D">
@@ -3394,7 +3410,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://www.popsci.com/popsci/technology/generaltechnology/43f47ce253607010vgnvcm1000004eecbccdrcrd/6.html</ref>
 		</loc>
 		<loc id="#$s4z8D">
-			<name>In 2011 You&#39;ll Never Have to Clean Your House Again - Popular Science</name>
+			<name>In 2011 You'll Never Have to Clean Your House Again - Popular Science</name>
 			<ref>http://www.popsci.com/popsci/technology/ac213ab81df8b010vgnvcm1000004eecbccdrcrd.html</ref>
 		</loc>
 		<loc id="#$qUPOr1">
@@ -3428,7 +3444,7 @@ related image is featured each day, along with a brief explanation.</descr>
 		<loc id="#$rPDi23">
 			<name>TED | Talks | Barry Schwartz: The paradox of choice (video)</name>
 			<ref>http://www.ted.com/index.php/talks/view/id/93</ref>
-			<descr>TED Talks Psychologist &lt;a href=&quot;/index.php/speakers/view/id/91&quot; target=&quot;_blank&quot;&gt;Barry Schwartz&lt;/a&gt;  takes aim at a central belief of western societies: that freedom of choice leads to personal happiness. In Schwartz&amp;#39;s estimation, all that choice is making us miserable. We set unreasonably high expectations, question our choices before we even make them, and blame our failures entirely on ourselves. His relatable examples, from consumer products (jeans, TVs, salad dressings) to lifestyle choices (where to live, what job to take, whom and when to marry), underscore this central point: Too many choices undermine happiness.</descr>
+			<descr>TED Talks Psychologist &lt;a href="/index.php/speakers/view/id/91" target="_blank"&gt;Barry Schwartz&lt;/a&gt;  takes aim at a central belief of western societies: that freedom of choice leads to personal happiness. In Schwartz&amp;#39;s estimation, all that choice is making us miserable. We set unreasonably high expectations, question our choices before we even make them, and blame our failures entirely on ourselves. His relatable examples, from consumer products (jeans, TVs, salad dressings) to lifestyle choices (where to live, what job to take, whom and when to marry), underscore this central point: Too many choices undermine happiness.</descr>
 		</loc>
 		<loc id="#$YpYTz3">
 			<name>Discovery Channel</name>
@@ -3439,7 +3455,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://www.exn.ca/dailyplanet/</ref>
 		</loc>
 		<loc id="#$j732r3">
-			<name>Jay&#39;s Journal</name>
+			<name>Jay's Journal</name>
 			<ref>http://www.exn.ca/jay/</ref>
 		</loc>
 		<loc id="#$CANDE2">
@@ -3595,18 +3611,18 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://www.exn.ca/dailyplanet/view.asp?date=1/26/2006</ref>
 		</loc>
 		<loc id="#$uGUYO1">
-			<name>&quot;Dragonfly&quot;, mosquito XE, flying flapping probe</name>
+			<name>"Dragonfly", mosquito XE, flying flapping probe</name>
 			<ref>http://www.exn.ca/dailyplanet/view.asp?date=4/14/2006</ref>
 		</loc>
 		<loc id="#$4BLoq1">
 			<name>How to Spin a Pencil Around Your Thumb - WikiHow</name>
 			<ref>http://www.wikihow.com/Spin-a-Pencil-Around-Your-Thumb</ref>
-			<descr>Have you ever watched somebody in class or at the office  skillfully twirl a pencil around his or her thumb and wondered how that person did it? Have you tried to do it on your own and found that it&#39;s not as easy as it looks? By following these steps and</descr>
+			<descr>Have you ever watched somebody in class or at the office  skillfully twirl a pencil around his or her thumb and wondered how that person did it? Have you tried to do it on your own and found that it's not as easy as it looks? By following these steps and</descr>
 		</loc>
 		<loc id="#$JVExz">
 			<name>How to Make a Duct Tape Cell Phone Case - WikiHow</name>
 			<ref>http://www.wikihow.com/Make-a-Duct-Tape-Cell-Phone-Case</ref>
-			<descr>Instead of buying a fancy, expensive cell phone case at the store, you can make your own from one of the world&#39;s most versatile materials--duct tape! With just one roll, you can create a custom-fit case that&#39;ll protect your phone from scratches.</descr>
+			<descr>Instead of buying a fancy, expensive cell phone case at the store, you can make your own from one of the world's most versatile materials--duct tape! With just one roll, you can create a custom-fit case that'll protect your phone from scratches.</descr>
 		</loc>
 		<loc id="#$hCrlo3">
 			<name>How to Walk Silently - WikiHow</name>
@@ -3621,7 +3637,7 @@ related image is featured each day, along with a brief explanation.</descr>
 		<loc id="#$N9zRp2">
 			<name>How to Be a Good Roommate - WikiHow</name>
 			<ref>http://www.wikihow.com/Be-a-Good-Roommate</ref>
-			<descr>Have you ever had to share a home with a stranger or even a close friend, only to find out you can&#39;t live together? Living with other people is difficult, especially when each person comes from a different background and has their own ideas about how they</descr>
+			<descr>Have you ever had to share a home with a stranger or even a close friend, only to find out you can't live together? Living with other people is difficult, especially when each person comes from a different background and has their own ideas about how they</descr>
 		</loc>
 		<loc id="#$WkSqH">
 			<name>How to Force Yourself to Eat Something You Hate - WikiHow</name>
@@ -3636,7 +3652,7 @@ related image is featured each day, along with a brief explanation.</descr>
 		<loc id="#$APY+B2">
 			<name>How to Build Self Confidence - WikiHow</name>
 			<ref>http://www.wikihow.com/Build-Self-Confidence</ref>
-			<descr>You want to be confident and feel confident, but what if you&#39;re starting with little or no confidence? How do you get from Point A to Point B? True self-confidence isn&#39;t an overnight acquisition. It takes dedication to realize you are a good human being t</descr>
+			<descr>You want to be confident and feel confident, but what if you're starting with little or no confidence? How do you get from Point A to Point B? True self-confidence isn't an overnight acquisition. It takes dedication to realize you are a good human being t</descr>
 		</loc>
 		<loc id="#$wgerg2">
 			<name>How to Turn Around a Bad Day at Work - WikiHow</name>
@@ -3723,7 +3739,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://www.wikihow.com/Function-in-a-Multigenerational-Household</ref>
 		</loc>
 		<loc id="#$0Vgr12">
-			<name>How to Crack a &quot;Master Lock&quot; Combination Lock - wikiHow</name>
+			<name>How to Crack a "Master Lock" Combination Lock - wikiHow</name>
 			<ref>http://www.wikihow.com/Crack-a-%22Master-Lock%22-Combination-Lock</ref>
 		</loc>
 		<loc id="#$oEP443">
@@ -3799,7 +3815,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://en.wikipedia.org/wiki/Data_storage</ref>
 		</loc>
 		<loc id="#$B67mx2">
-			<name>Daewoo Electronics Uses LabVIEW FPGA and CompactRIO to Develop World&#39;s First High Accuracy Servo Motion Control System for Holographic Digital Data Storage - Customer Solutions - National Instruments</name>
+			<name>Daewoo Electronics Uses LabVIEW FPGA and CompactRIO to Develop World's First High Accuracy Servo Motion Control System for Holographic Digital Data Storage - Customer Solutions - National Instruments</name>
 			<ref>http://sine.ni.com/csol/cds/item/vw/p/id/685/nid/124300</ref>
 			<descr>Overcoming the technological limitations of traditional two-dimensional storage devices to achieve greater capacity and faster data retrieval.</descr>
 		</loc>
@@ -3820,7 +3836,7 @@ related image is featured each day, along with a brief explanation.</descr>
 			<ref>http://en.wikipedia.org/wiki/Hard_drive</ref>
 		</loc>
 		<loc id="#$Yy6ED3">
-			<name>Howstuffworks &quot;How Hard Disks Work&quot;</name>
+			<name>Howstuffworks "How Hard Disks Work"</name>
 			<ref>http://computer.howstuffworks.com/hard-disk3.htm</ref>
 		</loc>
 		<loc id="#$Zy6ED3">
@@ -3875,10 +3891,10 @@ related image is featured each day, along with a brief explanation.</descr>
 		<loc id="#$8piga1">
 			<name>HowStuffWorks - Learn how Everything Works!</name>
 			<ref>http://www.howstuffworks.com/</ref>
-			<descr>HowStuffWorks explains hundreds of subjects, from car engines to lock-picking to ESP, using clear language and tons of illustrations. We do the research so you don&#39;t have to.</descr>
+			<descr>HowStuffWorks explains hundreds of subjects, from car engines to lock-picking to ESP, using clear language and tons of illustrations. We do the research so you don't have to.</descr>
 		</loc>
 		<loc id="#$dllll">
-			<name>InfiniteCoolness.com - Entertainment At It&#39;s Best!!</name>
+			<name>InfiniteCoolness.com - Entertainment At It's Best!!</name>
 			<ref>http://www.infinitecoolness.com/</ref>
 			<descr>The greatest list of everything Infinitely Cool! Tons of pictures, links, downloads and more!</descr>
 		</loc>
@@ -3910,7 +3926,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<ref>http://www.scienceagainstevolution.org/</ref>
 		</loc>
 		<loc id="#$odzV93">
-			<name>Marshall Brain&#39;s Blog</name>
+			<name>Marshall Brain's Blog</name>
 			<ref>http://marshallbrain.blogspot.com/</ref>
 		</loc>
 		<loc id="#$r5Q8S1">
@@ -3950,7 +3966,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<ref>http://pchschat.proboards91.com/</ref>
 		</loc>
 		<loc id="#$ZSTQS2">
-			<name>Mrs. Brown&#39;s Page</name>
+			<name>Mrs. Brown's Page</name>
 			<ref>http://www.lbpearson.ca/~lbrown/</ref>
 		</loc>
 		<loc id="#$QdWzq2">
@@ -4045,7 +4061,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<ref>http://www.askmen.com/sports/bodybuilding_100/130_fitness_tip.html</ref>
 		</loc>
 		<loc id="#$uQupg1">
-			<name>How to &quot;Think Up&quot; Screen Names</name>
+			<name>How to "Think Up" Screen Names</name>
 			<ref>http://forums.theideaweb.com/t3107-1.html</ref>
 		</loc>
 		<loc id="#$CQupg1">
@@ -4105,7 +4121,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 		<loc id="#$.ts0e">
 			<name>Sick, Sad, World</name>
 			<ref>http://www.angelfire.com/blog2/classicchaos/stupid_me/</ref>
-			<descr></descr>
+			<descr/>
 		</loc>
 		<loc id="#$HHgCw2">
 			<name>Search IRC</name>
@@ -4120,7 +4136,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 		<loc id="#$87KPI">
 			<name>Alexa Web Search</name>
 			<ref>http://www.alexa.com/#</ref>
-			<descr>Alexa web search -- a new kind of search engine.  With traffic rankings, user reviews and other information about sites, Alexa is a web site discovery tool.  Alexa web search combines the powerful Google search engine with Alexa&#39;s comprehensive site information and puts it all inside an Amazon.com interface.</descr>
+			<descr>Alexa web search -- a new kind of search engine.  With traffic rankings, user reviews and other information about sites, Alexa is a web site discovery tool.  Alexa web search combines the powerful Google search engine with Alexa's comprehensive site information and puts it all inside an Amazon.com interface.</descr>
 		</loc>
 		<loc id="#$97KPI">
 			<name>StatCounter Free invisible Web tracker, Hit counter and Web stats</name>
@@ -4155,7 +4171,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<descr>Lateral thinking problems that require require a little imagination to solve.</descr>
 		</loc>
 		<loc id="#$9L0q+">
-			<name>Braingle: &#39;Dear Watson #1&#39; Brain Teaser</name>
+			<name>Braingle: 'Dear Watson #1' Brain Teaser</name>
 			<ref>http://www.braingle.com/brainteasers/teaser.php?op=2;id=30797</ref>
 			<descr>User submitted and ranked brain teasers, riddles, logic problems and mind puzzles. Free online games and message boards.</descr>
 		</loc>
@@ -4271,7 +4287,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<ref>http://www.marinamusic.com/detail.tpl?sku=E2193&amp;keyword=rock%20roll&amp;where=title&amp;where1=comparr&amp;where2=desc1&amp;andor=wa&amp;</ref>
 		</loc>
 		<loc id="#$mjNXa1">
-			<name>2I&#39;M A BELIEVER</name>
+			<name>2I'M A BELIEVER</name>
 			<ref>http://www.marinamusic.com/detail.tpl?sku=E2191&amp;category=Popular%20Titles%20for%20Young%20Bands&amp;start=21&amp;startat=21&amp;cart=1128375394106491&amp;nav=T&amp;</ref>
 		</loc>
 		<loc id="#$1dON91">
@@ -4371,7 +4387,7 @@ data on any Windows XP or Windows 2000 PC.</descr>
 			<ref>http://www.photostockplus.com/index.php</ref>
 		</loc>
 		<loc id="#$2aV8y">
-			<name>Free Stock Photo&#39;s For Your Ezine - What is Royalty Free Photo Stock?</name>
+			<name>Free Stock Photo's For Your Ezine - What is Royalty Free Photo Stock?</name>
 			<ref>http://emailuniverse.com/ezine-tips/?id=1280&amp;cat=content</ref>
 		</loc>
 		<loc id="#$K0ICD1">
@@ -4437,7 +4453,7 @@ Area Codes and Zip Codes. Find a Company Name and Search by Business Type.</desc
 		<loc id="#$Fzf8N">
 			<name>SAAQ | SAAQclic | Driving Test Appointment</name>
 			<ref>http://www.saaq.gouv.qc.ca/saaqclic/en/public/grv/class5.html</ref>
-			<descr>Socit de l&#39;assurance automobile du Qubec</descr>
+			<descr>Socit de l'assurance automobile du Qubec</descr>
 		</loc>
 		<loc id="#$TeYlR2">
 			<name>The Church of Jesus Christ of Latter-day Saints</name>
@@ -4461,7 +4477,7 @@ Area Codes and Zip Codes. Find a Company Name and Search by Business Type.</desc
 			<ref>http://placement.emploiquebec.net/mbe/ut/rechroffr/erechroffr.asp?CL=english</ref>
 		</loc>
 		<loc id="#$idARR3">
-			<name>Howstuffworks &quot;How Creating an Online Business Works&quot;</name>
+			<name>Howstuffworks "How Creating an Online Business Works"</name>
 			<ref>http://money.howstuffworks.com/online-biz-do-it.htm</ref>
 			<descr>E-commerce has skyrocketed in the last decade. Creating your own online business is a great way to make a buck. Learn about starting an online business and how to make it work for you.</descr>
 		</loc>
