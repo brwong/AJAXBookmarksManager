@@ -1,0 +1,25 @@
+<marks>
+	<tags>
+		<tag id="0">example</tag>
+		<tag id="1">documentation</tag>
+		<tag id="2">search</tag>
+	</tags>
+	<locations>
+		<loc>
+			<name>example site</name>
+			<ref>http://www.example.com</ref>
+			<descr>this is just a random, dumb example site used just for a demonstration of this system</descr>
+			<t>0;1</t>
+		</loc>
+		<loc>
+			<name>google</name>
+			<ref>http://www.google.com</ref>
+			<t>0;2</t>
+		</loc>
+		<loc>
+			<name>my site</name>
+			<ref>http://127.0.0.1</ref>
+			<descr>just a link to the localhost</descr>
+		</loc>
+	</locations>
+</marks>
